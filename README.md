@@ -31,11 +31,7 @@
     <a href="https://github.com/nirogiovanni/fbar_design_tool"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/nirogiovanni/fbar_design_tool">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/fbar_design_tool/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/fbar_design_tool/issues">Request Feature</a>
+    <a href="https://github.com/nirogiovanni/fbar_design_tool/examples">View Examples</a>
   </p>
 </div>
 
