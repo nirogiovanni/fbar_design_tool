@@ -141,11 +141,11 @@ The resonant frequency is measured for each resonator having a different height 
 
 Once this correspondence have been obtained the calibration curve can be inserted into the central knowledge of the algorithm following the steps below:
 
-0. Back-up your materials list. The file is "materials.txt" in the central folder. If you get any trouble you can copy past the original file!.
+0. Do a back-up of the file "materials.txt" in the central folder.
 1. Open the "new-material" tab.
 2. Specify the name of your new material.
 3. Insert the path of the file created before ( $v_p|_h$ ).
-4. Specify the minimum and the maximum metal and the piezoelectric thicknesses.
+4. Specify the minimum and the maximum metal heights, the number of values and the piezoelectric thickness.
 5. Click on the preview button to check if the new calibration curve has been derived correctly from the software.
 6. Click on the save button.
 
