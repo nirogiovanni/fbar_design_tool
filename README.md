@@ -153,7 +153,7 @@ Once this correspondence have been obtained the calibration curve can be inserte
 
 
 
-### Load and Save resonators
+### Load and Save Resonators
 It is also possible to load/save resonators by pressing on the menu tab and choosing the desired option.
 
 <!-- ROADMAP -->
