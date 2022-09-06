@@ -199,9 +199,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Giovanni Niro - (giovanni.niro@poliba.it)
+Giovanni Niro - [giovanni.niro@poliba.it
 
-Project Link: [(http://npeg.poliba.it/)
+Project Link: [http://npeg.poliba.it/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
