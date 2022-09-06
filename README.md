@@ -1,10 +1,27 @@
 
-<!-- PROJECT LOGO 
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
+
+***<!-- PROJECT LOGO -->
 ***<br />
 ***<div align="center">
 ***  <a href="https://github.com/othneildrew/Best-README-Template">
 ***    <img src="images/logo.png" alt="Logo" width="80" height="80">
-***  </a> -->
+***  </a>
 
   <h3 align="center">FBAR design tool</h3>
 
@@ -123,14 +140,14 @@ Install the latest version of Matlab [Matlab-url]
 #### a. Decision Maker 
 The design of a resonator starts by specifying the input parameters, the resonant-frequency and the forming materials.
 
-If a piezoelectric thickness has been specified the decision maker will design a resonator for that value, if it hasn't the decision maker will return a set of possible stacks having differnet piezoelectric thicknesses
+If a piezoelectric thickness has been specified the decision maker will design a resonator for that value, if it hasn't the decision maker will return a set of possible stacks having different piezoelectric thicknesses
 
 Once all the input parameters have been inserted the design starts pressing the corresponding button.
 
 At the end of the decision-maker operations a specific solution can be chosen from the corresponding menu.
 
 #### b. Random perturbator 
-The random-perturbator estimates the p.d.f. of the resonance value for that specific solution considering the fabrication tolerances (_the default maximum error is of the 5% on the thickness of the piezoelectric and the top-electrode layers_).
+The random-perturbator estimates the p.d.f. of the resonance value for that specific solution considering the fabrication tolerances (_the recommended maximum errors are of the 5% of the thickness of the piezoelectric and the top-electrode layers_).
 
 As a first specify a solution from the set returned by the decision-maker and the maximum relative error your deposition processes could have.
 Then press on the corresponding button to start Montecarlo study.
