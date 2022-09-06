@@ -78,8 +78,9 @@ Thin-Film Bulk Acoustic wave Resonators (FBARs) represent one of the most promis
 Their structure is composed of a piezoelectric material having thickness of few micrometers, sandwiched between two electrodes.
 
 The faster is the acoustic wave propagating into the cavity the higher is the frequency:
-$f_r=v_p\times{d}$
+$f_r=v_p d$
 
+_Where $f_r$  is the resonance value, d is the piezoelectric layer and $v_p$ is the phase velocity of the acoustic-wave_.
 With our tool the only information needed is the dependence between the phase velocity and the metal over piezoelectric thickness ratio ( $\frac{h}{d}$ ). 
 
 This information is stored and reused by our design tool in the form of calibration curves. 
@@ -154,12 +155,7 @@ At the end the cumulative distributed function and the probability density funct
 
 ### 2. How to Insert New Calibration Curves
 To obtain a calibration curve, the thicknesses of the piezoelectric material and all the layers below need to be fixed. Then, resonators having different heights of the top-electrode are fabricated.
-The resonant frequency is measured for each resonator having a different height of the top electrode (h) and its corresponding value of the phase velocity is taken from equation:
-
-$v_p=f_r d$
-
-To express the calibration curve you have to produce a file expressing the correspondence between the phase-velocity value and the
-_Where d is the piezoelectric layer_.
+The resonant frequency is measured for each resonator having a different height of the top electrode (h) and its corresponding value of the phase velocity is taken from the equation above
 
 Once this correspondence have been obtained the calibration curve can be inserted into the central knowledge of the algorithm following the steps below:
 
