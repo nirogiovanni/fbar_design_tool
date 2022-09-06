@@ -54,7 +54,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Thin-Film Bulk Acoustic wave Resonators (FBARs) represent one of the most promising resonators technology.
 Their structure is composed of a piezoelectric material having thickness of few micrometers, sandwiched between two electrodes.
