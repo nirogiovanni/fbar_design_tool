@@ -121,7 +121,7 @@ Install the latest version of Matlab [Matlab-url]
 #### a. Decision Maker 
 The design of a resonator starts by specifying the input parameters, the resonant-frequency and the forming materials.
 
-If a piezoelectric thickness has been specified the decision maker will design a resonator for that value, if it hasn't the decision maker will return a set of possible stacks having different piezoelectric thicknesses
+If a piezoelectric thickness has been specified the decision maker will design a resonator for that value, if it hasn't the decision maker will return a set of possible stacks having different piezoelectric thicknesses.
 
 Once all the input parameters have been inserted the design starts pressing the corresponding button.
 
