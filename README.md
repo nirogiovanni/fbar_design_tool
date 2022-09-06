@@ -1,27 +1,10 @@
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
-***<!-- PROJECT LOGO -->
+<!-- PROJECT LOGO 
 ***<br />
 ***<div align="center">
 ***  <a href="https://github.com/othneildrew/Best-README-Template">
 ***    <img src="images/logo.png" alt="Logo" width="80" height="80">
-***  </a>
+***  </a> -->
 
   <h3 align="center">FBAR design tool</h3>
 
@@ -80,8 +63,9 @@ Their structure is composed of a piezoelectric material having thickness of few 
 The faster is the acoustic wave propagating into the cavity the higher is the frequency:
 $f_r=v_p d$
 
-_Where $f_r$  is the resonance value, d is the piezoelectric layer and $v_p$ is the phase velocity of the acoustic-wave_.
-With our tool the only information needed is the dependence between the phase velocity and the metal over piezoelectric thickness ratio ( $\frac{h}{d}$ ). 
+Where $f_r$  is the resonance value, d is the piezoelectric layer and $v_p$ is the phase velocity of the acoustic-wave.
+
+The big advantage of our tool is that the only information needed is the dependence between the phase velocity and the metal over piezoelectric thickness ratio ( $\frac{h}{d}$ ). 
 
 This information is stored and reused by our design tool in the form of calibration curves. 
 We arranged the curves in a library, and new materials can be easily added using our systematic procedure.
