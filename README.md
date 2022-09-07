@@ -162,7 +162,7 @@ It is also possible to load/save resonators by pressing on the menu tab and choo
 ## Roadmap
 
 - [ ] Add new piezoelectric materials-
-- [ ] Increase the capabilities of the algorithm for the design of FBAR-Filters including fabrication tolerances.
+- [ ] Increase the capabilities of the algorithm for the design of FBAR-Filters.
 - [ ] Include a menu for the editing of the material library.
 - [ ] Multi-language Support
     - [ ] Chinese
