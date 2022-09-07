@@ -54,18 +54,17 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+Thin-Film Bulk Acoustic wave Resonators (FBARs) represent one of the most promising resonators technology. 
+Their structure is composed of a piezoelectric material having a thickness of a few micrometres, sandwiched between two electrodes.
 
-Thin-Film Bulk Acoustic wave Resonators (FBARs) represent one of the most promising resonators technology.
-Their structure is composed of a piezoelectric material having thickness of few micrometers, sandwiched between two electrodes.
-
-The faster is the acoustic wave propagating into the cavity the higher is the frequency:
+The faster the acoustic wave propagates into the cavity the higher is the frequency:
 $f_r=v_p d$
 
 Where $f_r$  is the resonance value, d is the piezoelectric layer and $v_p$ is the phase velocity of the acoustic-wave.
 
-The problem as regard the commonly used design approaches are the huge amount of computational resourches they require and fabrication tolerances cannot be considered in an easy way.
+The problem as regards the commonly used design approaches are the huge amount of computational resources they require and fabrication tolerances that cannot be considered easily.
 
-The big advantage of our design tool is that the only information needed is the dependence between the phase velocity and the metal over piezoelectric thickness ratio ( $\frac{h}{d}$ ).
+The big advantage of our design tool is that the only information needed is the dependence between the phase velocity and the metal over piezoelectric thickness ratio( $\frac{h}{d}$ ).
 
 This information is stored and reused by our design tool in the form of calibration curves. 
 We arranged the curves in a library, and new materials can be easily added using our systematic procedure.
