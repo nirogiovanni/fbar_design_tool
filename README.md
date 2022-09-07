@@ -148,10 +148,10 @@ Once this correspondence have been obtained the calibration curve can be inserte
 2. Specify the name of your new material.
 3. Insert the path of the file created before ( $v_p|_h$ ).
 4. Specify the minimum and the maximum metal heights, the number of values and the piezoelectric thickness.
-5. Click on the preview button to check if the new calibration curve has been derived correctly from the software.
+5. Click on the preview button to check if the new calibration curve has been derived correctly from the software. (_Strongly recomended before insert the material into the library_).
 6. Click on the save button.
 
-(_It is strongly recommended to do a preview of the calibration curve before insert it into the library_).
+
 
 
 
