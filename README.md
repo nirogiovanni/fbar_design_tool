@@ -119,15 +119,19 @@ Install the latest version of Matlab [Matlab-url]
 ## Usage
 <b>Before any operation please check that your Matlab working folder is positioned at the central folder of the design-algorithm</b>.
 
-Click on the Matlab app "resonator_designer". 
+Click on the Matlab app "resonator_designer" to open the graphical interface. 
+
 The graphical interface is composed of two main panels, one for the design of the resonators, and the second to insert new materials into the library.
 
 ### 1. How to Design a Resonator
 
 The tab for the desig is divided into two sections.
-The top section is releated for the first steps of the design performed by the decision maker module. At the end of the decision maker operations the stack of the resonator having the desired characteristics will be given.
-The second section allows to visualise the set of solutions and to choose a single solution. 
-Once the desired solution has been selected the design tool can start the analysis of the effects of the fabrication tollerances thanks to the random perturbator module.
+
+The top section is releated to the decision maker module. 
+
+This module starts from the input parameters iserted by the user and returns the stack, or even a set of resonators, having the desired characteristics.
+The second section allows to better analyse the solution in terms of fabrication tollerances thanks to the random perturbator module.
+Given the fabrication tolerances specified by the user the random perturbator estimate the p.d.f. of the resonance position.
 
 #### a. Decision Maker 
 In order to interact with the decision maker specify the input parameters, the resonant-frequency and the forming materials.
@@ -136,10 +140,9 @@ If a piezoelectric thickness has been specified the decision maker will design a
 
 Once all the input parameters have been inserted the design starts pressing the corresponding button.
 
-At the end of the decision-maker operations a specific solution can be chosen from the Solutions menu.
+At the end a specific solution can be chosen from the Solutions menu.
 
 #### b. Random perturbator 
-s (_the recommended maximum errors are 5% of the thickness of the piezoelectric and the top-electrode layers_).
 
 As first specify a solution from the set returned by the decision-maker and the maximum relative error your deposition processes could have.
 Then press the corresponding button to start the Montecarlo study.
