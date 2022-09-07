@@ -140,14 +140,14 @@ At the end, the cumulative distribution function and the probability density fun
 To obtain a calibration curve, the thicknesses of the piezoelectric material and all the layers below need to be fixed. Then, resonators having different heights of the top-electrode are fabricated.
 The resonant frequency is measured for each resonator having a different height of the top electrode (h) and its corresponding value of the phase velocity is taken from the equation above
 
-Once this correspondence have been obtained the calibration curve can be inserted into the central knowledge of the algorithm following the steps below:
+Once this correspondence has been obtained the calibration curve can be inserted into the central knowledge of the algorithm following the steps below:
 
 0. Do a back-up of the file "materials.txt" in the central folder.
 1. Open the "new-material" tab.
 2. Specify the name of your new material.
 3. Insert the path of the file created before ( $v_p|_h$ ).
 4. Specify the minimum and the maximum metal heights, the number of values and the piezoelectric thickness.
-5. Click on the preview button to check if the new calibration curve has been derived correctly from the software. (_Strongly recomended before insert the material into the library_).
+5. Click on the preview button to check if the new calibration curve has been derived correctly from the software. (_Strongly recommended before inserting the material into the library_).
 6. Click on the save button.
 
 
