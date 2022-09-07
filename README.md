@@ -151,7 +151,7 @@ Once this correspondence have been obtained the calibration curve can be inserte
 5. Click on the preview button to check if the new calibration curve has been derived correctly from the software.
 6. Click on the save button.
 
-(_It is strongly recommended to preview the calibration curve before inserting it into the library_).
+(_It is strongly recommended to do a preview of the calibration curve before insert it into the library_).
 
 
 
