@@ -63,7 +63,9 @@ $f_r=v_p d$
 
 Where $f_r$  is the resonance value, d is the piezoelectric layer and $v_p$ is the phase velocity of the acoustic-wave.
 
-The big advantage of our tool is that the only information needed is the dependence between the phase velocity and the metal over piezoelectric thickness ratio ( $\frac{h}{d}$ ). 
+The big advantage of our design tool is that the only information needed is the dependence between the phase velocity and the metal over piezoelectric thickness ratio ( $\frac{h}{d}$ ). 
+
+The problem as regard the commonly used design approaches are the huge amount of computational resourches they require and fabrication tolerances cannot be considered in an easy way.
 
 This information is stored and reused by our design tool in the form of calibration curves. 
 We arranged the curves in a library, and new materials can be easily added using our systematic procedure.
