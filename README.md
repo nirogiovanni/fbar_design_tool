@@ -129,11 +129,11 @@ Once all the input parameters have been inserted the design starts pressing the 
 At the end of the decision-maker operations a specific solution can be chosen from the corresponding menu.
 
 #### b. Random perturbator 
-The random-perturbator estimates the p.d.f. of the resonance value for that specific solution considering the fabrication tolerances (_the recommended maximum errors are of the 5% of the thickness of the piezoelectric and the top-electrode layers_).
+The random-perturbator estimates the p.d.f. of the resonance value for that specific solution considering the fabrication tolerances (_the recommended maximum errors are 5% of the thickness of the piezoelectric and the top-electrode layers_).
 
-As a first specify a solution from the set returned by the decision-maker and the maximum relative error your deposition processes could have.
-Then press on the corresponding button to start Montecarlo study.
-At the end the cumulative distributed function and the probability density function of the resonance value will be given.
+As first specify a solution from the set returned by the decision-maker and the maximum relative error your deposition processes could have.
+Then press the corresponding button to start the Montecarlo study.
+At the end, the cumulative distribution function and the probability density function of the resonance value will be given.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### 2. How to Insert New Calibration Curves
