@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Niro
+    given-names: Giovanni
+
+title: "FBARs Design Tool"
+version: 1.0.1
+url: "https://github.com/nirogiovanni/fbar_design_tool"
+date-released: 2022-09-09
