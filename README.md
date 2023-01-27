@@ -201,7 +201,10 @@ Don't forget to give the project a star! Thanks again!
 
 <!-- HOW TO CITE -->
 Please, if the tool was useful for your research, please cite our work as follows: 
+
 Niro, G.; Marasco, I.; Rizzi, F.; D’Orazio, A.; Grande, M.; De Vittorio, M. Fabrication of a New Air-Gap FBAR on an Organic Sacrificial Layer through an Innovative Design Algorithm. Appl. Sci. 2023, 13, 1295. https://doi.org/10.3390/app13031295;
+
+
 BIBTEX:
 @Article{app13031295,
 AUTHOR = {Niro, Giovanni and Marasco, Ilaria and Rizzi, Francesco and D’Orazio, Antonella and Grande, Marco and De Vittorio, Massimo},
